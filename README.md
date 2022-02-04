@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ❤️ Love Linux and open source software
 - 📫 How to reach me: <gavinsun0921@foxmail.com>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=GavinSun0921&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Gavin's GitHub stats" height="180px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GavinSun0921&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=GavinSun0921&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Gavin's GitHub stats" height="180px" />
