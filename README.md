@@ -1,7 +1,7 @@
 ### Hi, Gavin Here 👋
 
 - 💻 ACMer (🥈 ICPC Nanjing 2020)
-- 🏆 Winner of the 2022 Remote Sensing Image Intelligent Processing Algorithm Competition
+- 🏆 Winner of the **2022 "Aerospace Hongtu Cup" Remote Sensing Image Intelligent Processing Algorithm Competition**
 - 🌱 I’m currently learning **Modern Cpp** and **Rust** as programming languages
 - 🔭 My research interests include **Deep Learning** and **Low Level Vision**
 - ❤️ Love Linux and open source software
